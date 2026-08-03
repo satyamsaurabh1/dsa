@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/satyamsaurabh1/dsa/tree/master/0041-first-missing-positive) |
 | [0152-maximum-product-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamsaurabh1/dsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/satyamsaurabh1/dsa/tree/master/0041-first-missing-positive) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyamsaurabh1/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/satyamsaurabh1/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
