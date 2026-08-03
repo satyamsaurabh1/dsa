@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
 | [3492-maximum-containers-on-a-ship](https://github.com/satyamsaurabh1/dsa/tree/master/3492-maximum-containers-on-a-ship) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/satyamsaurabh1/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -12,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
