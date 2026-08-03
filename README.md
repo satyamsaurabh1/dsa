@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/satyamsaurabh1/dsa/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
 | [3492-maximum-containers-on-a-ship](https://github.com/satyamsaurabh1/dsa/tree/master/3492-maximum-containers-on-a-ship) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamsaurabh1/dsa/tree/master/0922-sort-array-by-parity-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/satyamsaurabh1/dsa/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
