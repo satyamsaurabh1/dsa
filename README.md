@@ -88,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/satyamsaurabh1/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamsaurabh1/dsa/tree/master/0713-subarray-product-less-than-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/satyamsaurabh1/dsa/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/satyamsaurabh1/dsa/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/satyamsaurabh1/dsa/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
