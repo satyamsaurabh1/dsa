@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/satyamsaurabh1/dsa/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/satyamsaurabh1/dsa/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/satyamsaurabh1/dsa/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/satyamsaurabh1/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
