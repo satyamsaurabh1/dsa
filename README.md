@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/satyamsaurabh1/dsa/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/satyamsaurabh1/dsa/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyamsaurabh1/dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satyamsaurabh1/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/satyamsaurabh1/dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
