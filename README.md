@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamsaurabh1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyamsaurabh1/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/satyamsaurabh1/dsa/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/satyamsaurabh1/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamsaurabh1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/satyamsaurabh1/dsa/tree/master/0905-sort-array-by-parity) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyamsaurabh1/dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamsaurabh1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/satyamsaurabh1/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/satyamsaurabh1/dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamsaurabh1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamsaurabh1/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamsaurabh1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyamsaurabh1/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/satyamsaurabh1/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/satyamsaurabh1/dsa/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamsaurabh1/dsa/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
@@ -146,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/satyamsaurabh1/dsa/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyamsaurabh1/dsa/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyamsaurabh1/dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyamsaurabh1/dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
