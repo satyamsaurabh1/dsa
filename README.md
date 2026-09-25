@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satyamsaurabh1/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/satyamsaurabh1/dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamsaurabh1/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/satyamsaurabh1/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/satyamsaurabh1/dsa/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/satyamsaurabh1/dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamsaurabh1/dsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/satyamsaurabh1/dsa/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/satyamsaurabh1/dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamsaurabh1/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/satyamsaurabh1/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satyamsaurabh1/dsa/tree/master/0075-sort-colors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/satyamsaurabh1/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
