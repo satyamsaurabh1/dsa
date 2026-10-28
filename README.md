@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/satyamsaurabh1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamsaurabh1/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1406-stone-game-iii](https://github.com/satyamsaurabh1/dsa/tree/master/1406-stone-game-iii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satyamsaurabh1/dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satyamsaurabh1/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satyamsaurabh1/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/satyamsaurabh1/dsa/tree/master/3731-find-missing-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satyamsaurabh1/dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyamsaurabh1/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/satyamsaurabh1/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satyamsaurabh1/dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamsaurabh1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamsaurabh1/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satyamsaurabh1/dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
